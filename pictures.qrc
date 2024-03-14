@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/IMG">
+        <file>IMG/minii-01.png</file>
+        <file>IMG/trash-icon-01.png</file>
+        <file>IMG/editx-01.png</file>
+        <file>IMG/cust-unselected-01.png</file>
+        <file>IMG/Untitled-1.png</file>
+        <file>IMG/QRICON.png</file>
+        <file>IMG/search.png</file>
+        <file>IMG/google.png</file>
+        <file>IMG/sms.png</file>
+        <file>IMG/logo-01.png</file>
+    </qresource>
+</RCC>
