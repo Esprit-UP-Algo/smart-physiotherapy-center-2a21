@@ -28,6 +28,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 SOURCES += \
         addrendezvousdialog.cpp \
+        calendrier.cpp \
         connection.cpp \
         editrendezvousdialog.cpp \
         main.cpp \
@@ -39,6 +40,7 @@ SOURCES += \
 
 HEADERS += \
         addrendezvousdialog.h \
+        calendrier.h \
         connection.h \
         editrendezvousdialog.h \
         mainwindow.h \

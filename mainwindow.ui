@@ -768,8 +768,8 @@ QScrollBar::sub-page:vertical
    <widget class="QStackedWidget" name="stackedWidget">
     <property name="geometry">
      <rect>
-      <x>229</x>
-      <y>49</y>
+      <x>230</x>
+      <y>70</y>
       <width>1081</width>
       <height>501</height>
      </rect>
@@ -1037,7 +1037,7 @@ background-repeat: none;</string>
      <widget class="QLineEdit" name="bid_4">
       <property name="geometry">
        <rect>
-        <x>70</x>
+        <x>150</x>
         <y>0</y>
         <width>151</width>
         <height>21</height>
@@ -1047,7 +1047,7 @@ background-repeat: none;</string>
      <widget class="QLabel" name="des_4">
       <property name="geometry">
        <rect>
-        <x>30</x>
+        <x>20</x>
         <y>30</y>
         <width>141</width>
         <height>21</height>
@@ -1060,7 +1060,7 @@ background-repeat: none;</string>
      <widget class="QLineEdit" name="bnom_3">
       <property name="geometry">
        <rect>
-        <x>80</x>
+        <x>150</x>
         <y>30</y>
         <width>151</width>
         <height>21</height>
@@ -1070,8 +1070,8 @@ background-repeat: none;</string>
      <widget class="QLabel" name="quantite_4">
       <property name="geometry">
        <rect>
-        <x>10</x>
-        <y>70</y>
+        <x>20</x>
+        <y>60</y>
         <width>121</width>
         <height>21</height>
        </rect>
@@ -1083,8 +1083,8 @@ background-repeat: none;</string>
      <widget class="QLineEdit" name="bprenom_3">
       <property name="geometry">
        <rect>
-        <x>100</x>
-        <y>70</y>
+        <x>150</x>
+        <y>60</y>
         <width>151</width>
         <height>21</height>
        </rect>
@@ -1093,8 +1093,8 @@ background-repeat: none;</string>
      <widget class="QLabel" name="date_4">
       <property name="geometry">
        <rect>
-        <x>10</x>
-        <y>110</y>
+        <x>20</x>
+        <y>90</y>
         <width>181</width>
         <height>21</height>
        </rect>
@@ -1106,8 +1106,8 @@ background-repeat: none;</string>
      <widget class="QDateEdit" name="b_date_4">
       <property name="geometry">
        <rect>
-        <x>180</x>
-        <y>110</y>
+        <x>170</x>
+        <y>90</y>
         <width>110</width>
         <height>22</height>
        </rect>
@@ -1117,7 +1117,7 @@ background-repeat: none;</string>
       <property name="geometry">
        <rect>
         <x>20</x>
-        <y>150</y>
+        <y>120</y>
         <width>121</width>
         <height>21</height>
        </rect>
@@ -1129,8 +1129,8 @@ background-repeat: none;</string>
      <widget class="QLineEdit" name="bnum_3">
       <property name="geometry">
        <rect>
-        <x>170</x>
-        <y>150</y>
+        <x>150</x>
+        <y>120</y>
         <width>151</width>
         <height>21</height>
        </rect>
@@ -1140,7 +1140,7 @@ background-repeat: none;</string>
       <property name="geometry">
        <rect>
         <x>20</x>
-        <y>190</y>
+        <y>150</y>
         <width>121</width>
         <height>21</height>
        </rect>
@@ -1152,8 +1152,8 @@ background-repeat: none;</string>
      <widget class="QComboBox" name="b_genre_3">
       <property name="geometry">
        <rect>
-        <x>170</x>
-        <y>190</y>
+        <x>150</x>
+        <y>150</y>
         <width>151</width>
         <height>22</height>
        </rect>
@@ -1178,7 +1178,7 @@ background-repeat: none;</string>
       <property name="geometry">
        <rect>
         <x>20</x>
-        <y>240</y>
+        <y>180</y>
         <width>121</width>
         <height>21</height>
        </rect>
@@ -1190,8 +1190,8 @@ background-repeat: none;</string>
      <widget class="QLineEdit" name="badresse_3">
       <property name="geometry">
        <rect>
-        <x>160</x>
-        <y>240</y>
+        <x>150</x>
+        <y>180</y>
         <width>151</width>
         <height>21</height>
        </rect>
@@ -1200,8 +1200,8 @@ background-repeat: none;</string>
      <widget class="QLabel" name="type_10">
       <property name="geometry">
        <rect>
-        <x>10</x>
-        <y>290</y>
+        <x>20</x>
+        <y>210</y>
         <width>121</width>
         <height>21</height>
        </rect>
@@ -1213,8 +1213,8 @@ background-repeat: none;</string>
      <widget class="QLineEdit" name="bmail_3">
       <property name="geometry">
        <rect>
-        <x>160</x>
-        <y>290</y>
+        <x>150</x>
+        <y>210</y>
         <width>151</width>
         <height>21</height>
        </rect>
